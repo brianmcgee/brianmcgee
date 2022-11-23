@@ -6,7 +6,7 @@ Currently giving [Go](https://go.dev/) a good shake after years of taking the pi
 
 Long time JVM dev. Started out with Java 1.4, punished myself with Scala for a few years when it was cool, but most of the last half a decade or so has been with Kotlin (on the backend!).
 
-I've worked on systems of nearly every type by now, both backend and frontend, distributed and not so much. Some might call this *"Full Stack"*. 
+I've worked on systems of nearly every type by now, both backend and frontend, distributed and not so much and with a wide range of languages and technologies. Some might call this *"Full Stack"*. 
 
 Started my career building real-time systems for Tier 1 investment banks (**yes with the JVM! no, it wasn't slow** 🖕). Last few years have been spent in cryptocurrency land building tools and platforms for the [Ethereum](https://ethereum.org) blockchain, including a block explorer and a private [MEV](https://ethereum.org/en/developers/docs/mev/) relay. 
 
