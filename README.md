@@ -1,1 +1,24 @@
-## Hello World
+### Hey 👋
+
+By day I write software, by night I'm ~~Batma...~~ an avid 🍺 drinker and novice whiskey connoisseur.
+
+Currently giving [Go](https://go.dev/) a good shake after years of taking the piss out of it 🙏
+
+Long time JVM dev. Started out with Java 1.4, punished myself with Scala for a few years when it was cool, but most of the last half a decade or so has been with Kotlin (on the backend!).
+
+I've worked on systems of nearly every type by now, both backend and frontend, distributed and not so much. Some might call this *"Full Stack"*. 
+
+Started my career building real-time systems for Tier 1 investment banks (**yes with the JVM! no, it wasn't slow** 🖕). Last few years have been spent in cryptocurrency land building tools and platforms for the [Ethereum](https://ethereum.org) blockchain, including a block explorer and a private [MEV](https://ethereum.org/en/developers/docs/mev/) relay. 
+
+### Links
+
+* [My shiny new blog](https://bmcgee.ie/blog) where I'm gonna try to post interesting tidbits that I'm learning and maybe some other stuff too 🤷‍♂️
+* <a rel="nofollow me" class="Link--primary" href="https://fosstodon.org/@bmcgee84">My Mastodon profile</a> where I'm enjoying the change of pace from the bird site
+* And finally my company website, [41North](https://41north.dev), cos if I didn't put it here my work wife would get angry at me
+
+Always happy to have a chat about potential projects 😎
+
+### Recent articles
+
+* [nixos-install to the rescue!](https://bmcgee.ie/posts/2022/11/nixos-install-to-the-rescue/)
+* [Irish Top Level Domains are a bit different](https://bmcgee.ie/posts/2022/11/irish-tlds-are-a-bit-different/)
