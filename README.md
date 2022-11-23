@@ -13,7 +13,7 @@ Started my career building real-time systems for Tier 1 investment banks (**yes 
 ### Links
 
 * [My shiny new blog](https://bmcgee.ie/blog) where I'm gonna try to post interesting tidbits that I'm learning and maybe some other stuff too 🤷‍♂️
-* <a rel="nofollow me" class="Link--primary" href="https://fosstodon.org/@bmcgee84">My Mastodon profile</a> where I'm enjoying the change of pace from the bird site
+* My <a rel="me" class="Link--primary" href="https://fosstodon.org/@bmcgee84">Mastodon</a> profile where I'm enjoying the change of pace from the bird site
 * And finally my company website, [41North](https://41north.dev), cos if I didn't put it here my work wife would get angry at me
 
 Always happy to have a chat about potential projects 😎
