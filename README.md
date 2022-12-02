@@ -20,6 +20,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Advent of Code 2022](https://bmcgee.ie/posts/2022/12/advent-of-code-2022/)
 * [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
 * [nixos-install to the rescue!](https://bmcgee.ie/posts/2022/11/nixos-install-to-the-rescue/)
 * [Irish Top Level Domains are a bit different](https://bmcgee.ie/posts/2022/11/irish-tlds-are-a-bit-different/)
