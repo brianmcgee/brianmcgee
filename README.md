@@ -20,6 +20,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Nix and NixOS: a retrospective](https://bmcgee.ie/posts/2023/01/nix-and-nixos-a-retrospective/)
 * [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 * [Advent of Code 2022](https://bmcgee.ie/posts/2022/12/advent-of-code-2022/)
 * [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
