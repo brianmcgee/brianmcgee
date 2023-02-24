@@ -20,6 +20,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Nix: what are fixed-output derivations and why use them?](https://bmcgee.ie/posts/2023/02/nix-what-are-fixed-output-derivations-and-why-use-them/)
 * [Jump Starting Ethereum Nodes - Part 1](https://bmcgee.ie/posts/2023/02/jump-starting-ethereum-nodes-part-1/)
 * [Nix and it's slow feedback loop](https://bmcgee.ie/posts/2023/01/nix-and-its-slow-feedback-loop/)
 * [Nix and NixOS: a retrospective](https://bmcgee.ie/posts/2023/01/nix-and-nixos-a-retrospective/)
