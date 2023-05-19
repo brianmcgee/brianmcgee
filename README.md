@@ -20,6 +20,8 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Daddy's got a new hammer, and it's name is NATS](https://bmcgee.ie/posts/2023/05/daddys-got-a-new-hammer-and-its-name-is-nats/)
+* [TIL: How to generate NixOS module docs](https://bmcgee.ie/posts/2023/03/til-how-to-generate-nixos-module-docs/)
 * [Nix: what are fixed-output derivations and why use them?](https://bmcgee.ie/posts/2023/02/nix-what-are-fixed-output-derivations-and-why-use-them/)
 * [Jump Starting Ethereum Nodes - Part 1](https://bmcgee.ie/posts/2023/02/jump-starting-ethereum-nodes-part-1/)
 * [Nix and it's slow feedback loop](https://bmcgee.ie/posts/2023/01/nix-and-its-slow-feedback-loop/)
