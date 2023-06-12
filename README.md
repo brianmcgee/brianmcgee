@@ -20,6 +20,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [NATS: re-using ssh host keys for authentication](https://bmcgee.ie/posts/2023/06/nats-re-using-ssh-host-keys-for-authentication/)
 * [Daddy's got a new hammer, and it's name is NATS](https://bmcgee.ie/posts/2023/05/daddys-got-a-new-hammer-and-its-name-is-nats/)
 * [TIL: How to generate NixOS module docs](https://bmcgee.ie/posts/2023/03/til-how-to-generate-nixos-module-docs/)
 * [Nix: what are fixed-output derivations and why use them?](https://bmcgee.ie/posts/2023/02/nix-what-are-fixed-output-derivations-and-why-use-them/)
