@@ -20,6 +20,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [NATS: builtind a HTTP Transport](https://bmcgee.ie/posts/2023/07/nats-building-a-http-transport/)
 * [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
 * [NATS: re-using ssh host keys for authentication](https://bmcgee.ie/posts/2023/06/nats-re-using-ssh-host-keys-for-authentication/)
 * [Daddy's got a new hammer, and it's name is NATS](https://bmcgee.ie/posts/2023/05/daddys-got-a-new-hammer-and-its-name-is-nats/)
@@ -28,7 +29,3 @@ Always happy to have a chat about potential projects 😎
 * [Jump Starting Ethereum Nodes - Part 1](https://bmcgee.ie/posts/2023/02/jump-starting-ethereum-nodes-part-1/)
 * [Nix and it's slow feedback loop](https://bmcgee.ie/posts/2023/01/nix-and-its-slow-feedback-loop/)
 * [Nix and NixOS: a retrospective](https://bmcgee.ie/posts/2023/01/nix-and-nixos-a-retrospective/)
-* [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
-* [Advent of Code 2022](https://bmcgee.ie/posts/2022/12/advent-of-code-2022/)
-* [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
-* [nixos-install to the rescue!](https://bmcgee.ie/posts/2022/11/nixos-install-to-the-rescue/)
