@@ -20,6 +20,8 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Nvix: implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
+* [Numtide Retreat 2023](https://bmcgee.ie/posts/2023/10/numtide-retreat-2023/)
 * [NATS: builting a HTTP Transport](https://bmcgee.ie/posts/2023/07/nats-building-a-http-transport/)
 * [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
 * [NATS: re-using ssh host keys for authentication](https://bmcgee.ie/posts/2023/06/nats-re-using-ssh-host-keys-for-authentication/)
