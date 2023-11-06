@@ -23,7 +23,7 @@ Always happy to have a chat about potential projects 😎
 * [Making the switch: Moonlander Mark 1 and Colemak DHk](https://bmcgee.ie/posts/2023/11/making-the-switch-moonlander-mark-1-and-colemak-dhk/)
 * [Nvix: implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
 * [Numtide Retreat 2023](https://bmcgee.ie/posts/2023/10/numtide-retreat-2023/)
-* [NATS: builting a HTTP Transport](https://bmcgee.ie/posts/2023/07/nats-building-a-http-transport/)
+* [NATS: building a HTTP Transport](https://bmcgee.ie/posts/2023/07/nats-building-a-http-transport/)
 * [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
 * [NATS: re-using ssh host keys for authentication](https://bmcgee.ie/posts/2023/06/nats-re-using-ssh-host-keys-for-authentication/)
 * [Daddy's got a new hammer, and it's name is NATS](https://bmcgee.ie/posts/2023/05/daddys-got-a-new-hammer-and-its-name-is-nats/)
