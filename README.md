@@ -20,6 +20,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [TIL: how to optimise substitutions in Nix](https://bmcgee.ie/posts/2023/12/til-how-to-optimise-substitutions-in-nix/)
 * [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 * [Making the switch: Moonlander Mark 1 and Colemak DHk](https://bmcgee.ie/posts/2023/11/making-the-switch-moonlander-mark-1-and-colemak-dhk/)
 * [Nvix: implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
