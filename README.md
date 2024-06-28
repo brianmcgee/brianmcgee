@@ -14,12 +14,12 @@ Started my career building real-time systems for Tier 1 investment banks (**yes 
 
 * [My shiny new blog](https://bmcgee.ie/posts) where I'm gonna try to post interesting tidbits that I'm learning and maybe some other stuff too 🤷‍♂️
 * My <a rel="me" class="Link--primary" href="https://fosstodon.org/@bmcgee84">Mastodon</a> profile where I'm enjoying the change of pace from the bird site
-* And finally my company website, [41North](https://41north.dev), cos if I didn't put it here my work wife would get angry at me
 
 Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Announcing Treefmt 2.0](https://bmcgee.ie/posts/2024/06/announcing-treefmt-2.0/)
 * [TIL: how to optimise substitutions in Nix](https://bmcgee.ie/posts/2023/12/til-how-to-optimise-substitutions-in-nix/)
 * [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 * [Making the switch: Moonlander Mark 1 and Colemak DHk](https://bmcgee.ie/posts/2023/11/making-the-switch-moonlander-mark-1-and-colemak-dhk/)
