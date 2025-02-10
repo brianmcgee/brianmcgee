@@ -19,6 +19,7 @@ Always happy to have a chat about potential projects 😎
 
 ### Recent articles
 
+* [Nix: structing Flakes with Blueprint](https://bmcgee.ie/posts/2025/02/nix-structuring-flakes-with-blueprint/)
 * [Announcing Treefmt 2.0](https://bmcgee.ie/posts/2024/06/announcing-treefmt-2.0/)
 * [TIL: how to optimise substitutions in Nix](https://bmcgee.ie/posts/2023/12/til-how-to-optimise-substitutions-in-nix/)
 * [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
